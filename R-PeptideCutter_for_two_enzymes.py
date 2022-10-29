@@ -1,4 +1,4 @@
-# author Zhenjiao Du zhenjiao@ksu.edu
+# author Zhenjiao Du zhenjiao@ksu.edu 
 # Grain science & Industry, Kansas State University
 # primary intention of the simulated tools
 #   1. collect all the unknown enzyme cleavage cites and create a one-stop tools
